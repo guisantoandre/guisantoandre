@@ -3,4 +3,4 @@
 
 - 🤓 Apaixonado por tecnologia e programação
 - 💻 Linguagens que tenho familiaridade: HTML, CSS, Sass e Javascript
-- 🌱 Estudando NodeJS
+- 🌱 Estudando NodeJS e TypeScript
