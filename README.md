@@ -3,4 +3,4 @@
 
 - 🤓 Entusiasta na área de programação
 - 💻 Linguagens que tenho familiaridade: HTML, CSS e Javascript
-- 🌱 Estudando ReactJS, NextJS, Typescript
+- 🌱 Estudando ReactJS, NextJS e Typescript
