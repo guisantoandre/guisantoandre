@@ -2,5 +2,5 @@
 ### Olá, eu sou o Guilherme 👋
 
 - 🤓 Entusiasta na área de programação
-- 💻 Linguagens que tenho familiaridade: HTML, CSS e Javascript
+- 💻 Amante de código e tecnologia
 - 🌱 Estudando ReactJS, NextJS e Typescript
