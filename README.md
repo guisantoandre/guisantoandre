@@ -1,4 +1,1 @@
-
-### Olá, eu sou o Guilherme 👋
-
-Front-end Developer | React • Next.js • TypeScript | Interfaces modernas e performáticas
+Desenvolvedor Front-end | Interfaces modernas e performáticas
